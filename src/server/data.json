@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "email": "johndoe1@gmail.com",
+      "password": "123456",
+      "repassword": "123456",
+      "id": 1
+    },
+    {
+      "name": "Alexis Patazca",
+      "email": "santos1@gmail.com",
+      "password": "santos1",
+      "repassword": "santos1",
+      "id": 2
+    },
+    {
+      "name": "Saul Mendoza",
+      "email": "saul28@gmail.com",
+      "password": "saul123",
+      "repassword": "saul123",
+      "id": 3
+    },
+    {
+      "name": "Enrique",
+      "email": "holaa@gmail.com",
+      "password": "1234",
+      "repassword": "1234",
+      "id": 4
+    },
+    {
+      "name": "Dori Mendoza",
+      "email": "doricute@gmail.com",
+      "password": "12345",
+      "repassword": "12345",
+      "id": 5
+    }
+  ],
+  "excluded_users": [
+    {
+      "dni": "76789452",
+      "id": 1
+    },
+    {
+      "dni": "45778896",
+      "id": 2
+    },
+    {
+      "dni": "98689565",
+      "id": 3
+    }
+  ],
+  "data": [
+    {
+      "moneda": "Soles",
+      "precioVivienda": 2500,
+      "cuotaInicial": 187.5,
+      "tasaEfectiva": 8,
+      "numeroCuotas": 18,
+      "periodoGracia": 2,
+      "periodoGraciaParcial": 2,
+      "periodoGraciaTotal": 0,
+      "cuota": 152.92,
+      "userId": 3,
+      "nombreRegistro": "a",
+      "id": 1
+    }
+  ]
+}
